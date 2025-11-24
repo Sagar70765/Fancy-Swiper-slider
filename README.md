@@ -1,2 +1,2 @@
-# Fancy-Swiper-slider
+# swiperslider
 This is a slider for web page
